@@ -1,3 +1,1 @@
-# BigAtom
-
-Hi there 👋
+#Hi there 👋
