@@ -15,9 +15,12 @@
 
 📫 You can contact me at mositodrone@gmail.com
 
-/
+
 
 ## Connect with me
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/moses-ajayi-66001019a/)
 [![discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/766208018080858142)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mositodrone&show_icons=true&locale=en&layout=compact)
