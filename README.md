@@ -3,17 +3,12 @@
 ![Moses Github Cover](https://github.com/user-attachments/assets/0e1c2e54-94af-421b-9dc1-f95b6ab89570)
 
 
-🚀 I'm a passionate developer on an exciting coding journey.
-
-🌱 I love exploring new technologies and coding challenges.
-
-💡 Building innovative solutions that make a positive impact.
-
-🔭 Currently, I'm focusing on personal projects and honing my skills to create something remarkable.
-
-💬Feel free to reach out and discuss anything related to coding and development.
-
-📫 You can contact me at mositodrone@gmail.com
+👋 Hi, I'm Ajayi Moses!  
+💻 I'm a Full Stack Developer passionate about creating smooth, user-friendly web experiences.  
+🌍 I enjoy turning ideas into real-world applications that solve problems and bring value.  
+⚙️ My stack includes React, Next.js, Node.js, Express, TypeScript, and MongoDB.  
+🔭 I'm currently working on **Tasty Trails** — a travel experience platform that connects people with local culture, food, and vibes.  
+📫 You can reach me at mositodrone@gmail.com or check out my work at https://bigatom.netlify.app/.
 
 
 
@@ -24,3 +19,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mositodrone&show_icons=true&locale=en&layout=compact)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mositodrone&show_icons=true&theme=tokyonight)
